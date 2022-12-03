@@ -33,7 +33,7 @@ One of the following permissions is required to call this API. To learn more, in
 -->
 
 ``` http
-GET /compliance/ediscovery/cases/{caesId}/custodians/{custodianId}
+GET /compliance/ediscovery/cases/{caseId}/custodians/{custodianId}
 ```
 
 ## Optional query parameters
